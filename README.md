@@ -1,5 +1,5 @@
 # Server
-This project was generated with NODEJS. 
+The server was generated with NODEJS. 
 Run  `npm run dev` for a NODEJS server
 
 # Client
